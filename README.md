@@ -1,64 +1,33 @@
-# 🎟️ TicketMaster - Venta de Entradas Online
+# 👋 ¡Hola, soy Aaron Soto Vásquez! 🚀
 
-![TicketMaster Banner](https://via.placeholder.com/1000x300.png?text=TicketMaster+🎟️)
+![GitHub Banner](https://via.placeholder.com/1000x300.png?text=Aaron+Soto+V%C3%A1squez+%7C+Ingeniero+en+Inform%C3%A1tica)
 
-> 🚀 **Una plataforma moderna para la venta de entradas en línea, con generación de códigos QR y verificación de pagos.**
+Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática y desarrollador autodidacta. Me encanta crear soluciones innovadoras con Django, React y otras tecnologías web. 💡
 
-## 📌 Características
-✅ Compra de entradas en línea 📩
-✅ Generación automática de códigos QR 🏷️
-✅ Validación de pagos con comprobante 📸
-✅ Notificación por correo electrónico 📧
-✅ Interfaz intuitiva con React ⚛️
-✅ Backend robusto con Django REST Framework 🐍
+## 🚀 Tecnologías y Herramientas
 
-## 🛠️ Tecnologías Utilizadas
-| Tecnología | Descripción |
-|------------|------------|
-| Django Rest Framework | API robusta y segura |
-| React | Interfaz de usuario moderna |
-| MySQL | Base de datos escalable |
-| AWS S3 | Almacenamiento de comprobantes |
-| JWT | Seguridad y autenticación |
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 🚀 Instalación
+## 🔥 Proyectos Destacados
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/AaronISV/ticketmaster.git
-cd ticketmaster
+- 🎟️ **[Venta de Tickets](https://github.com/AaronISV/ticketmaster)** - Plataforma para la compra de entradas con QR.
+- 📚 **[Gestor de Biblioteca](https://github.com/AaronISV/library-manager)** - Sistema de gestión de libros y almacenes.
+- 💬 **[Chatbot para WhatsApp](https://github.com/AaronISV/whatsapp-bot)** - Chatbot automatizado con ManyChat.
 
-# Instalar dependencias
-pip install -r backend/requirements.txt
-cd frontend && npm install
+## 📈 Estadísticas de GitHub
 
-# Configurar variables de entorno
-cp .env.example .env
+![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronISV&show_icons=true&theme=radical)
 
-# Ejecutar el backend
-cd backend
-python manage.py migrate
-python manage.py runserver
+## 📫 Conéctate conmigo
 
-# Ejecutar el frontend
-cd ../frontend
-npm start
-```
-
-## 📸 Vista Previa
-
-<img src="https://via.placeholder.com/800x400.png?text=Vista+Previo+TicketMaster" alt="Vista Previa" width="100%">
-
-## ✨ Contribuciones
-¡Las contribuciones son bienvenidas! Sigue estos pasos:
-1. Haz un fork del proyecto 🍴
-2. Crea una rama con tu feature (`git checkout -b feature-nueva`)
-3. Realiza commits significativos (`git commit -m 'Agrega nueva funcionalidad'`)
-4. Haz push a tu rama (`git push origin feature-nueva`)
-5. Abre un Pull Request 🚀
-
-## 📜 Licencia
-Este proyecto está bajo la licencia MIT.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-soto-vasquez/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AaronISV)
+[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaronsotovasquez@gmail.com)
 
 ---
-_Desarrollado con ❤️ por [Aaron Soto Vásquez](https://github.com/AaronISV)_ 🎸
+💡 "Nunca dejes de aprender y crear." ✨
