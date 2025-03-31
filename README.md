@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Aaron Soto Vásquez! 🚀
 
-![GitHub Banner](https://via.placeholder.com/1000x300.png?text=Aaron+Soto+V%C3%A1squez+%7C+Ingeniero+en+Inform%C3%A1tica)
+![GitHub Banner](https://i.pinimg.com/originals/31/19/26/311926671b1703d18988b0dcd6616a9b.jpg)
 
 Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática y desarrollador autodidacta. Me encanta crear soluciones innovadoras. 💡
 
@@ -29,4 +29,4 @@ Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheNewAarons/)
 
 ---
-💡 "Coding in progress." 
+💡 "Full Snack Developer." 
