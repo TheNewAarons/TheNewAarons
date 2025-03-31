@@ -25,7 +25,7 @@ Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática 
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aarons-userdeveloper)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarons-userdeveloper)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheNewAarons/)
 
 ---
