@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://via.placeholder.com/1000x300.png?text=Aaron+Soto+V%C3%A1squez+%7C+Ingeniero+en+Inform%C3%A1tica)
 
-Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática y desarrollador autodidacta. Me encanta crear soluciones innovadoras con Django, React y otras tecnologías web. 💡
+Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática y desarrollador autodidacta. Me encanta crear soluciones innovadoras. 💡
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -25,9 +25,8 @@ Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática 
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-soto-vasquez/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AaronISV)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaronsotovasquez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aarons-userdeveloper)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheNewAarons/)
 
 ---
-💡 "Nunca dejes de aprender y crear." ✨
+💡 "Coding in progress." 
