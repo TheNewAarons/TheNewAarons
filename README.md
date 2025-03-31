@@ -1,6 +1,4 @@
-# 👋 ¡Hola, soy Aaron Soto Vásquez! 🚀
-
-![GitHub Banner](https://i.pinimg.com/originals/31/19/26/311926671b1703d18988b0dcd6616a9b.jpg)
+![GitHub Banner](https://hackernoon.com/images/f2px36fy.gif)
 
 Soy un apasionado por la tecnología, estudiante de Ingeniería en Informática y desarrollador autodidacta. Me encanta crear soluciones innovadoras. 💡
 
