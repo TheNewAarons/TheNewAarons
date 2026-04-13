@@ -27,41 +27,21 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white)
-
-**CLOUD**
-
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
 **PROYECTOS**
 
-```
-01  RedScan          [ Python · JavaScript ]
-    Escáner de red local — tráfico en tiempo real,
-    resolución de IPs y bloqueo de dispositivos.
-    → https://github.com/TheNewAarons/RedScan
+[**RedScan**](https://github.com/TheNewAarons/RedScan) — Escáner de red local con tráfico en tiempo real, resolución de IPs y bloqueo de dispositivos. `Python` `JavaScript`
 
-02  PrevySeg         [ React · Django · DRF ]
-    Sistema de gestión administrativa para OTEC —
-    clientes, documentos y dashboards por módulo.
-    → https://github.com/TheNewAarons/PrevySeg
+[**PrevySeg**](https://github.com/TheNewAarons/PrevySeg) — Gestión administrativa para OTEC. Clientes, documentos y dashboards por módulo. `React` `Django` `DRF`
 
-03  AgenteAI         [ Flask · Gemini API · SSE ]
-    Chat IA especializado en Ingeniería Informática —
-    requerimientos, diagramas y generación de código.
-    → https://github.com/TheNewAarons/AgenteAI
+[**AgenteAI**](https://github.com/TheNewAarons/AgenteAI) — Chat IA especializado en Ingeniería Informática. Requerimientos, diagramas y generación de código. `Flask` `Gemini API`
 
-04  Neurona           [ Pygame · Claude API · TF-IDF ]
-    Simulador de neurona biológica (LIF + SFA) con motor IA,
-    scraping en tiempo real y visualización a 60 FPS.
-    → https://github.com/TheNewAarons/Neurona
+[**Neurona**](https://github.com/TheNewAarons/Neurona) — Simulador de neurona biológica (LIF + SFA) con motor IA, scraping en tiempo real y visualización a 60 FPS. `Pygame` `Claude API`
 
-05  AcuityFlow        [ FastAPI · Redis · WebSockets ]
-    Sistema de orquestación de personal médico con IoT,
-    gemelos digitales y Pub/Sub en tiempo real.
-    → https://github.com/TheNewAarons/AcuityFlow
-```
+[**AcuityFlow**](https://github.com/TheNewAarons/AcuityFlow) — Orquestación de personal médico con IoT, gemelos digitales y Pub/Sub en tiempo real. `FastAPI` `Redis` `WebSockets`
 
 ---
 
