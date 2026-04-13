@@ -1,57 +1,53 @@
-```
-THENEWAARON / THENEWAARON
-```
+<div align="center">
 
-<h1>Aaron.</h1>
+# Aaron.
 
 `Fullstack Developer` · construyendo en público
 
----
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### LENGUAJES
-Python<br>JavaScript<br>HTML<br>CSS
-
-</td>
-<td valign="top" width="25%">
-
-### FRAMEWORKS
-Django<br>React<br>Astro<br>Vite
-
-</td>
-<td valign="top" width="25%">
-
-### DATOS & API
-SQL<br>NoSQL<br>REST API
-
-</td>
-<td valign="top" width="25%">
-
-### CLOUD
-AWS
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### ACTUALMENTE
+**LENGUAJES**
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+
+**FRAMEWORKS**
+
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white)
+
+**DATOS & API**
+
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat-square&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white)
+
+**CLOUD**
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+**ACTUALMENTE**
 
 ```
-BUILDING  →  ERP para empresa de aseo
-             [ finanzas · bodega · análisis de datos · cronograma ]
-
+BUILDING  →  ERP empresa de aseo  [ finanzas · bodega · análisis · cronograma ]
 LEARNING  →  IAs agénticas especializadas por dominio
-
 SHIPPING  →  Solo a clientes personalizados
 ```
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNewAarons&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewAarons&layout=compact&theme=graywhite&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNewAarons&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewAarons&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888)
+
+</div>
