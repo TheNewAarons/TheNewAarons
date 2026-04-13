@@ -1,49 +1,57 @@
-<div align="center">
+```
+THENEWAARON / THENEWAARON
+```
+
+<h1>Aaron.</h1>
+
+`Fullstack Developer` · construyendo en público
 
 ---
 
-**TheNewAarons**  
-`Fullstack Developer`
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### LENGUAJES
+Python<br>JavaScript<br>HTML<br>CSS
+
+</td>
+<td valign="top" width="25%">
+
+### FRAMEWORKS
+Django<br>React<br>Astro<br>Vite
+
+</td>
+<td valign="top" width="25%">
+
+### DATOS & API
+SQL<br>NoSQL<br>REST API
+
+</td>
+<td valign="top" width="25%">
+
+### CLOUD
+AWS
+
+</td>
+</tr>
+</table>
 
 ---
 
-</div>
+### ACTUALMENTE
 
-&nbsp;
+```
+BUILDING  →  ERP para empresa de aseo
+             [ finanzas · bodega · análisis de datos · cronograma ]
 
-**SOBRE**
+LEARNING  →  IAs agénticas especializadas por dominio
 
-Construyo cosas. Las publico aquí.  
-Sin promesas. Sin roadmaps. Solo código.
-
-&nbsp;
-
-**STACK**
-
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-000?style=flat-square&logo=mongodb&logoColor=white)
-
-&nbsp;
-
-**ENFOQUE**
-
-- Proyectos personales, experimentos y prototipos
-- Frontend y backend, sin preferencias absolutas
-- Código que resuelve. Nada más
-
-&nbsp;
-
-<div align="center">
+SHIPPING  →  Solo a clientes personalizados
+```
 
 ---
 
-*El código habla por sí solo. Explora los repos.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNewAarons&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&include_all_commits=true)
 
----
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewAarons&layout=compact&theme=graywhite&hide_border=true)
