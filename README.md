@@ -34,6 +34,37 @@
 
 ---
 
+**PROYECTOS**
+
+```
+01  RedScan          [ Python · JavaScript ]
+    Escáner de red local — tráfico en tiempo real,
+    resolución de IPs y bloqueo de dispositivos.
+    → https://github.com/TheNewAarons/RedScan
+
+02  PrevySeg         [ React · Django · DRF ]
+    Sistema de gestión administrativa para OTEC —
+    clientes, documentos y dashboards por módulo.
+    → https://github.com/TheNewAarons/PrevySeg
+
+03  AgenteAI         [ Flask · Gemini API · SSE ]
+    Chat IA especializado en Ingeniería Informática —
+    requerimientos, diagramas y generación de código.
+    → https://github.com/TheNewAarons/AgenteAI
+
+04  Neurona           [ Pygame · Claude API · TF-IDF ]
+    Simulador de neurona biológica (LIF + SFA) con motor IA,
+    scraping en tiempo real y visualización a 60 FPS.
+    → https://github.com/TheNewAarons/Neurona
+
+05  AcuityFlow        [ FastAPI · Redis · WebSockets ]
+    Sistema de orquestación de personal médico con IoT,
+    gemelos digitales y Pub/Sub en tiempo real.
+    → https://github.com/TheNewAarons/AcuityFlow
+```
+
+---
+
 **ACTUALMENTE**
 
 ```
