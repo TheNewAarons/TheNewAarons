@@ -46,8 +46,8 @@ SHIPPING  →  Solo a clientes personalizados
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNewAarons&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheNewAarons&theme=github_dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewAarons&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheNewAarons&theme=github_dark" />
 
 </div>
